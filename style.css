@@ -59,7 +59,7 @@ nav {
 }
 
 #logo img {
-  zoom: 0.5;
+  zoom: 0.25;
 }
 
 #sign-button {
@@ -163,14 +163,14 @@ nav {
 
 #img2 {
   position: relative;
-  width: 40rem;
-  height: 40rem;
+  width: 30rem;
+  height: 30rem;
 }
 
 #img3 {
   position: absolute;
-  width: 40rem;
-  height: 40rem;
+  width: 30rem;
+  height: 30rem;
 }
 
 .button2 {
